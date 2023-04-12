@@ -1,0 +1,2 @@
+# bspwm-polybar
+bspwm + polybar 

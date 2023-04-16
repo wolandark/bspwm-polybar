@@ -81,10 +81,10 @@ super + ctrl + o
     $HOME/.local/bin/config.sh
 # terminal emulator
 super + Return
-	xterm -sk -ti vt340
+	st
 
 super + shift + Return
-	roxterm
+	xterm -sk -ti vt340
 
 # program launcher
 super + d
